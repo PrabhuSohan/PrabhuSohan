@@ -27,21 +27,11 @@ Currently I am fascinated by the developments in Deep learning and Generative A.
 - **[Diffusion Models](https://github.com/stealthcrazy/DiffusionModels)** —
   Training and inference code built to understand denoising diffusion from the
   ground up. `Jupyter · PyTorch`
-
   
 - **[VanillaGAN](https://github.com/stealthcrazy/VanillaGAN)** — Vanilla GAN,
   WGAN and WGAN-GP on MNIST, including a documented study of mode collapse and
   how the Wasserstein objective with gradient penalty resolves it.
   `Python · PyTorch`
-  
-- **[PlaneHack](https://github.com/xm22677/planehack)** — Flight delay
-  prediction for US departures and arrivals, built in 36 hours at
-  **IC Hack 2026**. An FT-Transformer trained on the Aeolus flight-delay
-  dataset after benchmarking against linear regression and XGBoost, served
-  from Flask and wired to live flight data. Ships as both a web app and a
-  Chrome extension that injects predicted delays directly into Google Flights.
-  `PyTorch · Flask · React · TypeScript` · *team of [N]* ·
-  [Devpost](https://devpost.com/software/planehack)
   
 - **[Variational Autoencoders](https://github.com/stealthcrazy/VariationalAutoEncoders)**
   — VAE implementation with the reparameterisation trick and ELBO derived from
@@ -53,6 +43,15 @@ Currently I am fascinated by the developments in Deep learning and Generative A.
   passes, then discards coefficients below a percentile threshold and
   reconstructs the image through the inverse transform — a from-first-
   principles take on what JPEG does with the DCT. `Python · NumPy · Pillow`
+  
+- **[PlaneHack](https://github.com/xm22677/planehack)** — Flight delay
+  prediction for US departures and arrivals, built in 36 hours at
+  **IC Hack 2026**. An FT-Transformer trained on the Aeolus flight-delay
+  dataset after benchmarking against linear regression and XGBoost, served
+  from Flask and wired to live flight data. Ships as both a web app and a
+  Chrome extension that injects predicted delays directly into Google Flights.
+  `PyTorch · Flask · React · TypeScript` · *team of [6]* ·
+  [Devpost](https://devpost.com/software/planehack)
 
 ### Skills
 
