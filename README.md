@@ -8,7 +8,7 @@ Undergraduate CS student at the University of Bristol. I learn by building proje
 Currently I am fascinated by the developments in Deep learning and Generative A.I.
 
 - 🔨 Recent: [Piranha Tensor Library - Working Cuda Development (in Progress)]
-- 📄 Blog  : [Diffusion Models - Uncovering the Maths behind Diffusion Models]
+- 📄 Blog  : [Diffusion Models - Uncovering the Maths behind Diffusion Models](https://stealthcrazy.github.io/machine-learning/diffusion-models/2026/08/09/DiffusionModels.html)
 
 # Projects
 
