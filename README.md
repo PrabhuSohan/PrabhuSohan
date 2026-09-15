@@ -4,7 +4,7 @@
 
 # About
 
-Undergraduate CS student at the University of Bristol. I learn by building projects from the ground up centred around recent developments in tech.
+Undergraduate CS student at the University of Bristol. I learn by building projects from the ground up. My centred around recent developments in tech.
 Currently I am fascinated by the developments in Deep learning and Generative A.I.
 
 - 🔨 Recent: [Piranha Tensor Library - Working Cuda Development (in Progress)]
