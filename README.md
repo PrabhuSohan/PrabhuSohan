@@ -14,30 +14,30 @@ Currently I am fascinated by the developments in Deep learning and Generative A.
 
 ### Projects
 
-- **[Piranha](https://github.com/stealthcrazy/Piranha)** — A tensor library
+- **[Piranha](https://github.com/PrabhuSohan/Piranha)** — A tensor library
   written from scratch in C++: strided views with shape/stride/offset, a
   reference-counted storage core, dtype dispatch, broadcasting binary ops and
   matmul. Cuda Backend & Autograd in progress. `C++ · Cuda`
 
-- **[Kronos-App](https://github.com/stealthcrazy/Kronos-App)** — Full-stack
+- **[Kronos-App](https://github.com/PrabhuSohan/Kronos-App)** — Full-stack
   LLM chat application. Transformer backend served over FastAPI with Postgres
   and token auth, LoRA fine-tuning implemented by hand, and a Markov-chain
   baseline to measure against. React frontend. `Python · PyTorch · React`
 
-- **[Diffusion Models](https://github.com/stealthcrazy/DiffusionModels)** —
+- **[Diffusion Models](https://github.com/PrabhuSohan/DiffusionModels)** —
   Training and inference code built to understand denoising diffusion from the
   ground up. `Jupyter · PyTorch`
   
-- **[VanillaGAN](https://github.com/stealthcrazy/VanillaGAN)** — Vanilla GAN,
+- **[VanillaGAN](https://github.com/PrabhuSohan/VanillaGAN)** — Vanilla GAN,
   WGAN and WGAN-GP on MNIST, including a documented study of mode collapse and
   how the Wasserstein objective with gradient penalty resolves it.
   `Python · PyTorch`
   
-- **[Variational Autoencoders](https://github.com/stealthcrazy/VariationalAutoEncoders)**
+- **[Variational Autoencoders](https://github.com/PrabhuSohan/VariationalAutoEncoders)**
   — VAE implementation with the reparameterisation trick and ELBO derived from
   first principles. `Jupyter · PyTorch`
 
-- **[FFT Image Compression](https://github.com/stealthcrazy/Projects/tree/main/Image%20Compression%20using%20FFT)**
+- **[FFT Image Compression](https://github.com/PrabhuSohan/Projects/tree/main/Image%20Compression%20using%20FFT)**
   — Lossy image compression built on a recursive radix-2 Cooley–Tukey FFT
   written from scratch, no `numpy.fft`. Extends to 2D via row and column
   passes, then discards coefficients below a percentile threshold and
