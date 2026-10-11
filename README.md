@@ -14,6 +14,9 @@ Currently I am fascinated by the developments in Deep learning and Generative A.
 
 ### Projects
 
+- **[Cuda Showcase](https://github.com/PrabhuSohan/CudaShowcase)** -- C++/CUDA showcase of parallel
+  algorithms I implemented when reading and learning CUDA from **"Programming Massively Parallel Processors"** `C++ · CUDA · CMAKE`
+
 - **[Piranha](https://github.com/PrabhuSohan/Piranha)** — A tensor library
   written from scratch in C++: strided views with shape/stride/offset, a
   reference-counted storage core, dtype dispatch, broadcasting binary ops and
